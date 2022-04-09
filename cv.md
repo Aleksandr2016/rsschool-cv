@@ -2,9 +2,11 @@
 
 # **Aleksandr Verameiko**
 
+
 ## About me
 
 It’s interesting to me and I really enjoy to see the results of my efforts. I hope to become a professional Front-end developer in the future.
+
 
 ## Skills
 
@@ -12,15 +14,18 @@ It’s interesting to me and I really enjoy to see the results of my efforts. I 
 * CSS
 * GitHub
 * JavaScriot
+* Visual Studio Code
 
 ## Courses
 
 rsschool-cv-html
 
+
 ## Languages
 
 * English: A2
 * Russian: Native
+
 
 ## Contacts 
 
